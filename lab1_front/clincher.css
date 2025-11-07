@@ -1,0 +1,18 @@
+.clincher {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.clincher__title {
+    font-family: 'Changa One', sans-serif;
+    font-size: 2rem;
+    line-height: 36px;
+    color: #434343;
+    font-weight: 400;
+}
+
+.clincher__text {
+    line-height: 26px;
+    color: #434343;
+}
